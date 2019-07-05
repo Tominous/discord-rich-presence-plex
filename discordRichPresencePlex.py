@@ -27,7 +27,7 @@ class plexConfig:
 		self.clientID = clientID
 
 plexConfigs = [
-	# plexConfig(serverName = "", username = "", password = "", token = "")
+	 plexConfig(serverName = "", username = "", password = "", token = "")
 ]
 
 class discordRichPresence:
